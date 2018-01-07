@@ -7,8 +7,8 @@ Note: This setup guide is for MacOS. In other platforms, they may be different.
 
 Run these commands in terminal
 ```
-git clone https://github.com/tuyennguyen266/bittrex-auto.git
-cd bittrex-auto
+git clone https://github.com/DecentralizedM/bittrex-trailing-stop-loss.git
+cd bittrex-trailing-stop-loss
 npm install
 ```
 
